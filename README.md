@@ -1,4 +1,4 @@
-# Hello, I'm [Samid shibily]!
+# Hello, I'm [Hamid shibily]!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/your-username/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-username)](https://twitter.com/your-username)
